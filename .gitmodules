@@ -34,3 +34,6 @@
 [submodule "lib/software/s2e-gui-tool"]
 	path = lib/software/s2e-gui-tool
 	url = https://github.com/Wiznet/WIZnet-S2E-Tool-GUI.git
+[submodule "lib/hardware/nrf52dk-w5500-shield"]
+	path = lib/hardware/nrf52dk-w5500-shield
+	url = https://github.com/Wiznet/nRF52DK_to_W5500Shield
