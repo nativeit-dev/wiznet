@@ -1,3 +1,36 @@
 [submodule "lib/driver"]
 	path = lib/driver
 	url = https://github.com/Wiznet/ioLibrary_Driver
+[submodule "lib/hardware/wiznet-hardware-files"]
+	path = lib/hardware/wiznet-hardware-files
+	url = https://github.com/Wiznet/Hardware-Files-of-WIZnet
+[submodule "docs/examples/W5300-TOE-C"]
+	path = docs/examples/W5300-TOE-C
+	url = https://github.com/Wiznet/W5300-TOE-C
+[submodule "lib/software/s2e-tool"]
+	path = lib/software/s2e-tool
+	url = https://github.com/Wiznet/WIZnet-S2E-Tool
+[submodule "docs/examples/w5300-toe-examples"]
+	path = docs/examples/w5300-toe-examples
+	url = https://github.com/Wiznet/W5300-TOE-Arduino
+[submodule "docs/examples/w5300-toe-micropython"]
+	path = docs/examples/w5300-toe-micropython
+	url = https://github.com/Wiznet/W5300-TOE-MicroPython
+[submodule "lib/blynk"]
+	path = lib/blynk
+	url = https://github.com/Wiznet/BLYNK_LPC11E36_LPCXpresso
+[submodule "lib/hardware/eaglecad-library"]
+	path = lib/hardware/eaglecad-library
+	url = https://github.com/Wiznet/EagleCAD_library
+[submodule "docs/examples/arduino-wifi-shield"]
+	path = docs/examples/arduino-wifi-shield
+	url = https://github.com/Wiznet/Arduino_WiFi_Shield
+[submodule "lib/hardware/arduino-ethernet-shield"]
+	path = lib/hardware/arduino-ethernet-shield
+	url = https://github.com/Wiznet/W5200-Ethernet-Shield
+[submodule "lib/arduino-ethernet"]
+	path = lib/arduino-ethernet
+	url = https://github.com/Wiznet/W5200_Arduino_Ethernet_Lib
+[submodule "lib/software/s2e-gui-tool"]
+	path = lib/software/s2e-gui-tool
+	url = https://github.com/Wiznet/WIZnet-S2E-Tool-GUI.git
